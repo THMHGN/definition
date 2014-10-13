@@ -9,7 +9,7 @@ a {
 </style>
 <font color='white'>
 <center>
-<form action="search.php" method="post">
+<form method="post">
 <input type="text" placeholder="Enter word" name="word"><br>
 <button name="name" value="Search" type="submit">Search</button>
 </form>
