@@ -23,6 +23,6 @@ echo "Search definition of: <a href='http://dictionary.cambridge.org/dictionary/
 
 echo "<br /><iframe src='http://dictionary.cambridge.org/dictionary/british/".$word."' width='275' height='450' scrolling='yes' frameBorder='0'></iframe>";
 
-echo "<br /><iframe src='http://www.vertalen.nu/vertaal?vertaal=".$word."&van=en&naar=nl' width='275' height='435' scrolling='yes' frameBorder='0'>Browser not compatible.</iframe>";
+echo "<br /><iframe src='http://www.vertalen.nu/vertaal?vertaal=".$word."&van=en&naar=nl' width='275' height='435' scrolling='yes' frameBorder='0'></iframe>";
 
 ?>
